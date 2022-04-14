@@ -4,6 +4,7 @@ This project is a Fullstack MERN Application using Redux for state management. S
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
